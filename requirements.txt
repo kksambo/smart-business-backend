@@ -19,4 +19,4 @@ cors==1.0.1
 reportlab==4.0.7
 python-dateutil==2.8.2
 passlib[bcrypt]==1.7.4
-qroq
+groq
